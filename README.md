@@ -4,7 +4,7 @@
 - 📫 How to reach me:
 - Discord: Meowerr#6040
 - Reddit: Meower56
-- Twitter Meowerwastaken
+- Twitter: Meowerwastaken
 
 <!---
 JavaPro846/JavaPro846 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
