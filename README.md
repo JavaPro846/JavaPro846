@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @JavaPro846
-- 👀 I’m interested in Minecraft and music.
-- 🌱 I’m currently learning many things
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me Meower#6040
+- 👋 Hi, I’m @JavaPro846.
+- 👀 I’m interested in many things.
+- 🌱 I’m currently learning lots of stuff.
+- 📫 How to reach me:
+- Discord: Meowerr#6040
+- Reddit: Meower56
+- Twitter Meowerwastaken
 
 <!---
 JavaPro846/JavaPro846 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
